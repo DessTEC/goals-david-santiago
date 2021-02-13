@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng5"
+  "defaultProject": "ng5",
+  "cli": {
+    "analytics": false
+  }
 }
